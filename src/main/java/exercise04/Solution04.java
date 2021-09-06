@@ -10,6 +10,7 @@
  *  Ask user to enter an adjective and store input in "adjective" string variable
  *  Ask user to enter an adverb and store input in "adverb" string variable
  *  Use printf() function to display and form a silly sentence using the variables stored with the user input
+ *
  */
 
 package exercise04;
